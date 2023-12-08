@@ -1,11 +1,11 @@
 ﻿# Interview questions
 
-**Question 1.** Have you done Web Scrapping? If Yes, then tell me how would you find out, it's legal or not?
+**Question 1.** What is TextBlob? What is the aim of TextBlob?
 
-**Question 2.** For creating text or appending texts we use "w+" and "a+", what is the use of "+" sign in this?
+**Question 2.** Lemmatize "Runners" word using textblob.
 
-**Question 3.** Do you convert words into numbers like 6 = six?
+**Question 3.** What is the use of Wordnet?
 
-**Question 4.** Why it is important to remove punctuation from sentence?
+**Question 4.** Explain Wordlist.
 
-**Question 5.** What is regex? What is the use of regex?
+**Question 5.** Translate any sentence in your own language using TextBlob.
